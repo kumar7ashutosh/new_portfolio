@@ -9,3 +9,5 @@ portfolio projectS for opportunities
 4.rainfall prediction app with map feature
 
 5.computer vision face detection project
+
+6.multi-agent pipeline rag project
