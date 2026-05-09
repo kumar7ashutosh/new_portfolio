@@ -1,4 +1,4 @@
-portfolio projectS for opportunities
+portfolio projectS:
 
 1.End to End mlops industry level project
 
