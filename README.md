@@ -2,9 +2,9 @@ portfolio projectS for opportunities
 
 1.End to End mlops industry level project
 
-2.mlops prediction used fast api, aws, model evaluation, estimator, s3 bucket, ci-cd deployment, docker
+2.END TO END LLOMPs INDUSTRY LEVEL PROJECT USING LANGCHAIN, LANGGRAPH, FASTAPI , DOCKER, STREAMLIT, PIPELINE BUILD UP WITH JENKINS, SONARQUBE FOR CODE QUALITY TESTING, PUSHING IMAGES TO ECR REPO AND AWS-FARGATE DEPLOYMENT
 
-3.Gen-AI resume score mlops project
+3.END TO END LLOMPs INDUSTRY LEVEL PROJECT USING LANGCHAIN, ASTRADB , DOCKER, FLASK DEPLOYMENT, APPLYING PROMETHEUS AND GRAFANA FOR MONITORING, MINIKUBE CLUSTER, K8S for pods management AND GCP DEPLOYMENT
 
 4.rainfall prediction app with map feature
 
